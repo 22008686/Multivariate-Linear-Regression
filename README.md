@@ -32,7 +32,7 @@ Step5:
 Predict the CO2 emission of a car where the weight is 2300kg
 
 ## program:
-
+```
 Developed by: M.PAVITHRA
 Reg.No: 22008686
 
@@ -52,7 +52,7 @@ print('Intercept:',regr.intercept_)
 
 predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
-
+```
 ## Output:
 
 ![](c.png)
